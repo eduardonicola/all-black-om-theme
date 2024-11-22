@@ -1,0 +1,21 @@
+{
+  "name": "all-black-om-theme",
+  "displayName": "all-black-om-theme",
+  "description": "Creditos a OmTheme ",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.95.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Eduardo Nicola ",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Eduardo Nicola -color-theme.json"
+      }
+    ]
+  }
+}
