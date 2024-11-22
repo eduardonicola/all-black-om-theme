@@ -1,7 +1,8 @@
 {
   "name": "all-black-om-theme",
+  "icon": "./icon.png",
   "displayName": "all-black-om-theme",
-  "description": "Creditos a OmTheme ",
+  "description": "Uma extenção de cor inpirada em omTheme e Black Ocean",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.95.0"
