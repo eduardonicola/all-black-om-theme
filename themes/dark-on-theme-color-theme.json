@@ -1043,7 +1043,7 @@
     "statusBarItem.remoteForeground": "#F8F8F2",
     // Tabs
     "tab.inactiveBackground": "#1b2025",
-    "tab.inactiveForeground": "#2b353f",
+    "tab.inactiveForeground": "#d2d8dd",
     "tab.activeBackground": "#01425e83",
     // Editor Group
     "editorGroup.border": "#3b4651",
