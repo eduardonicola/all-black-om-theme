@@ -1,7 +1,8 @@
 {
   "name": "all-black-om-theme",
-  "icon": "./icon.png",
+  "icon": "icon.png",
   "displayName": "all-black-om-theme",
+  "repository": ""
   "description": "Uma extenção de cor inpirada em omTheme e Black Ocean",
   "version": "0.0.1",
   "engines": {
