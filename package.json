@@ -8,7 +8,7 @@
     "url":"https://github.com/eduardonicola/all-black-om-theme"
 },
   "description": "Uma extenção de cor inspirado em omTheme e Black Ocean",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.95.0"
   },
